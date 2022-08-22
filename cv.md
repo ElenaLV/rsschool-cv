@@ -30,6 +30,7 @@ let result = sum(7, 2);
 alert ( result );
 ```
 #### Experience
+[My CV project](https://github.com/ElenaLV/rsschool-cv.git)
 
 #### Education
 
